@@ -28,7 +28,7 @@
 #include "LedControl.h"                          //inclui biblioteca para controle da matriz com MAX7219
 
 
-LedControl myMatrix = LedControl(2, 4, 3, 1);    //cria uma instância de uma matriz
+LedControl myMatrix =  LedControl(11,13,10,1); //cria uma instância de uma matriz
 
 
 // =============================================================================================================
